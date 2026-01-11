@@ -1,20 +1,27 @@
-# Week 2 – Security Planning and Testing Methodology
+Week 2 – Installation and Initial Configuration
+## Objectives
+## Operating System Installation
+Ubuntu Server was installed as the server operating system due to its stability, long-term support, and suitability for server environments.
 
-## Security Baseline
-A security-first approach was designed to protect the server from common threats.
+The installation was performed within a virtual machine to allow safe testing and configuration without affecting the host system.
 
-## Security Checklist
-- SSH key-based authentication
-- Firewall configuration
-- Non-root administrative user
-- Automatic security updates
-- Intrusion prevention
+## Installation Configuration
+During installation, the following configuration choices were made:
+- Minimal installation selected
+- Automatic updates enabled
+- Default partitioning used
+- SSH server enabled for remote access
 
-## Threat Model
-Key threats include brute-force SSH attempts, privilege escalation, and network scanning.
+## Initial System Setup
+After installation, the system was updated and verified to ensure it was running correctly and ready for further configuration.This week focuses on installing the operating system and performing initial system configuration in preparation for server usage.
 
-## Performance Testing Plan
-Performance will be monitored remotely under baseline and load conditions.
+## Evidence (Screenshots)
 
-## Reflection
-Security planning highlighted the importance of layered protection.
+### Ubuntu Server Installed
+Screenshot showing the Ubuntu Server running after installation.
+
+### System Version Information
+Screenshot showing the Ubuntu Server version details.
+
+### Network Configuration
+Screenshot showing basic network configuration and connectivity.Screenshots will be added after completing the Week 2 tasks.
