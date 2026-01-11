@@ -1,4 +1,4 @@
-Week 1 – System Planning and Distribution Selection
+Planning and Distribution Selection
 1. Overview
 
 The aim of Week 1 was to plan the operating system deployment and justify all technical decisions before implementation. This week focused on selecting an appropriate Linux server distribution, designing the system architecture, deciding on a workstation configuration, and outlining the initial network approach. Planning these elements in advance helps reduce configuration errors and ensures the system can be secured and managed effectively in later weeks.
@@ -70,3 +70,13 @@ IP addressing will be documented once the server is running to ensure consistent
 7. Reflection
 
 This week highlighted the importance of careful planning before system configuration begins. Selecting an appropriate operating system, defining a clear architecture, and planning the network layout provide a strong foundation for security hardening and performance evaluation in later weeks. Establishing a headless, SSH-based administration model reinforces professional operating system management practices that will be developed further throughout the coursework.
+## Evidence (Screenshots)
+
+### Virtualisation Information
+<img width="4032" height="2040" alt="image" src="https://github.com/user-attachments/assets/df7f9686-a6cc-41be-8172-ee8db2802567" />
+
+
+### System information
+<img width="3725" height="1434" alt="image" src="https://github.com/user-attachments/assets/383bdb68-1990-4cee-8326-9e9e3d782cea" />
+
+
