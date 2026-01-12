@@ -1,1 +1,0 @@
-# cmpn202-operating-systems
