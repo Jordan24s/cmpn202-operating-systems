@@ -1,4 +1,4 @@
-/>Week 2 – Installation and Initial Configuration
+Week 2 – Installation and Initial Configuration
 ## Objectives
 ## Operating System Installation
 Ubuntu Server was installed as the server operating system due to its stability, long-term support, and suitability for server environments.
