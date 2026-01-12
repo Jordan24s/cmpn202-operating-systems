@@ -1,4 +1,4 @@
-<img width="3911" height="1077" alt="image" src="https://github.com/user-attachments/assets/0185ddd0-c788-4f1f-a558-e158a552eb20" /><img width="3911" height="1077" alt="image" src="https://github.com/user-attachments/assets/762b0a52-cf0e-434d-99e3-d79329456781" />Week 5 – Advanced Security & Monitoring
+Week 5 – Advanced Security & Monitoring
 1. Introduction
 
 This week focused on strengthening system security and implementing monitoring mechanisms to protect the server from unauthorized access and attacks. Key security tools were configured, and automated scripts were created to assess and monitor system health remotely.
