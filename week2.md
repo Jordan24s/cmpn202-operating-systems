@@ -1,4 +1,4 @@
-<img width="3551" height="1030" alt="image" src="https://github.com/user-attachments/assets/79bbf4c9-62d4-4d52-a1be-5196bcf72848" />Week 2 – Installation and Initial Configuration
+/>Week 2 – Installation and Initial Configuration
 ## Objectives
 ## Operating System Installation
 Ubuntu Server was installed as the server operating system due to its stability, long-term support, and suitability for server environments.
