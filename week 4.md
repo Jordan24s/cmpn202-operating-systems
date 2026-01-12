@@ -1,4 +1,4 @@
-<img width="2362" height="931" alt="image" src="https://github.com/user-attachments/assets/62957ec0-cd46-4624-a717-882b6967cbf6" /><img width="2651" height="735" alt="image" src="https://github.com/user-attachments/assets/8b11e68f-fc45-4bd6-a1ee-a9d473a3c456" /># Week 4 – Performance Monitoring and Stress Testing
+ Week 4 – Performance Monitoring and Stress Testing
 ## Tools Used
 
 The following tools were used to monitor and test system performance:
