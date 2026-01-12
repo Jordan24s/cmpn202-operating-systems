@@ -47,5 +47,10 @@ During the test, CPU usage increased significantly, confirming that the stress t
 The stress tool was used to generate CPU load using two CPU workers for 30 seconds.
 During the test, CPU usage increased significantly as observed in the `top` output.
 After the test completed, CPU usage returned to normal levels.
+Conclusion
+
+In this lab, system performance was observed under normal conditions and under CPU stress. 
+The results showed that CPU usage increased significantly during the stress test, while memory usage remained stable.
+This demonstrates how stress-testing tools can be used to analyze system behavior under load.
 
 
